@@ -1,0 +1,17 @@
+{
+  "name": "mkfe",
+  "version": "1.0.0",
+  "description": "mkw dev tools",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hussion",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "ssh2": "^0.4.11"
+  }
+}
